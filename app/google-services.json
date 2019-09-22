@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "359752882223",
+    "firebase_url": "https://banksampah-00.firebaseio.com",
+    "project_id": "banksampah-00",
+    "storage_bucket": "banksampah-00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359752882223:android:ef6c34f8a4ec0745024eda",
+        "android_client_info": {
+          "package_name": "com.example.banksampah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359752882223-uanc16f0bkfui9cs5s5fcsiqsaljpj40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.banksampah",
+            "certificate_hash": "0bd7a1d6ac2792b42a0962966c974dd8d1d2b5b4"
+          }
+        },
+        {
+          "client_id": "359752882223-ms06eo3s4h374dbpur979irv2qmap777.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GsaJOauJNf1bBS5E5gVIug58B-dVyto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359752882223-ms06eo3s4h374dbpur979irv2qmap777.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
